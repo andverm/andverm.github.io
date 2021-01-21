@@ -21,7 +21,7 @@ function updatePageTitle() {
 function setUserName() {
     let userName = prompt("Please enter your name.");
     if (!userName) {
-        userName = "One who's name must not be mentioned";
+        userName = "Mr. IDontKnowYourName";
     }
     localStorage.setItem("name", userName);
 }
