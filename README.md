@@ -9,7 +9,9 @@ Thanks for reading, have a great day!
 
 ## Issues
 - PhpStorm: Missing local interpreter.
-**SOLVED**: Installed WIMP.
+
+  **SOLVED**: Installed WIMP.
 
 - `float: left;` allowed to place text next to image, but caused preceding blocks to break.
-**SOLVED**: Placed `<br style="clear: left">` after block.
+
+  **SOLVED**: Placed `<br style="clear: left">` after block.
